@@ -1,9 +1,9 @@
 
 # 🎃 Duffie 
 
-Olá, podem me chamar de Duffie. Sou estudante de Informática para Internet. Minhas principais características são a vontade de aprender, resolução de problemas e criatividade.
+Olá, podem me chamar de Duffie. Sou estudante de Ciência da Computação. Minhas principais características são a vontade de aprender, resolução de problemas e criatividade.
 
-Hello, you can call me Duffie. I'm an IT student. My main traits are my eagerness to learn, problem solving and creativity.
+Hello, you can call me Duffie. I'm an IT/Computer Science student. My main traits are my eagerness to learn, problem solving and creativity.
 
 ## 💻 Habilidades:
 
